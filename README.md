@@ -32,15 +32,14 @@ Dibangun dengan antarmuka intuitif menggunakan Bootstrap 5 dan backend PHP/MySQL
 
 ---
 
-## 🛠 **Arsitektur Sistem**  
-┌─────────────┐     ┌───────┐     ┌───────────────┐
-│  Frontend   │────>│  PHP  │────>│ MySQL Database│
-│ (Bootstrap) │     └───────┘     └───────────────┘
-└─────────────┘         │               │
-                        ▼               ▼
-                ┌─────────────┐ ┌─────────────┐
-                │ Laporan PDF │ │  API Sistem │
-                └─────────────┘ └─────────────┘
+## 🛠 Arsitektur Sistem
+
+| Layer        | Komponen          | Teknologi    |
+|--------------|-------------------|-------------|
+| Presentation | User Interface    | Bootstrap 5 |
+| Application  | Business Logic    | PHP         |
+| Data         | Database          | MySQL       |
+| Integration  | API & Reporting   | PDF, REST   |
 
 📥 Instalasi
 Persyaratan Sistem:
