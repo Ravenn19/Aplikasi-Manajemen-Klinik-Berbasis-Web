@@ -1,8 +1,9 @@
 # 🏥 Sistem Informasi Klinik (SIM-Klinik)  
 *Aplikasi Manajemen Klinik Berbasis Web dengan Fitur Lengkap*  
 
-![Dashboard Preview](https://via.placeholder.com/800x400/2962FF/FFFFFF?text=SIM+Klinik+Dashboard)  
-*(Ganti dengan screenshot aktual aplikasi Anda)*  
+![WhatsApp Image 2025-07-11 at 19 22 18_e2b9484b](https://github.com/user-attachments/assets/1c11c8ae-6039-4c9b-9876-eed4bcc615e9)
+![WhatsApp Image 2025-07-11 at 19 22 29_6cf947f5](https://github.com/user-attachments/assets/c991e352-041b-4d54-98de-5e028b247fae)
+
 
 ---
 
